@@ -1,0 +1,4 @@
+# Normalize line endings
+* text=auto
+*.ps1 text eol=lf
+*.sh text eol=lf
